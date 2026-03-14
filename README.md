@@ -1,11 +1,11 @@
 # Merhaba, Ben Metehan 👋
 
-Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı geliştirerek yenilikçi projeler üretmeyi seven bir geliştiriciyim. Bilgim olmayan alanlarda uğraşıp proje geliştirerek öğrenmeyi seven biriyim, biraz zor olabilir ama 
+Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı geliştirerek yenilikçi projeler üretmeyi seven bir geliştiriciyim. Bilgim olmayan alanlarda uğraşıp proje geliştirerek öğrenmeyi seven biriyim.
 
 * 🎓 İngilizce Matematik bölümünde lisans eğitimime devam ediyorum.
-* 📊 En büyük motivasyonum, projelerimde geleneksel kalıpları yıkmak ve yeni kalıplar inşa etmek.
+* 💡 En büyük motivasyonum, projelerimde geleneksel kalıpları yıkmak ve yeni kalıplar inşa etmek.
 * 🌤️ Şu sıralar geleneksel hava durumu uygulamalarının ötesine geçen, kullanıcılara ruh hallerine veya havaya göre asistanlık sunan yenilikçi bir site projesi üzerinde çalışıyorum.
-* 💡 Veri ve Veri Mühendisliği alanlarına ilgi duyuyor ve projelerimde yer verip kendimi bu alanda geliştirmek istiyorum.
+* 📊 Veri ve Veri Mühendisliği alanlarına ilgi duyuyor ve projelerimde yer verip kendimi bu alanda geliştirmek istiyorum.
 
 ### 🛠️ Yeteneklerim ve Kullandığım Teknolojiler
 
