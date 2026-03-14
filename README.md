@@ -26,7 +26,7 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 #### [Lost QR]
 
 <a href="https://github.com/meteJanG/lostqr">
-  <img src="https://github.com/user-attachments/assets/2ec213a2-5739-46a7-a525-43e43a2a2adb" width="100%" alt="Lost QR Projesi Logosu" style="border-radius: 15px;">
+  <img src="https://github.com/user-attachments/assets/2ec213a2-5739-46a7-a525-43e43a2a2adb" width="10%" alt="Lost QR Projesi Logosu" style="border-radius: 15px;">
 </a>
 
 *QR tabanlı bir 'Kayıp Eşya' sistemidir ve 'Kaybolan Hiçbir Şey Kaybolmuş Sayılmaz.'*
