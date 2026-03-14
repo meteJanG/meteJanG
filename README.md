@@ -41,6 +41,28 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 ---
 
+#### [Weatherassistai - Hava Durumu & Life Assistance]
+
+<a href="https://github.com/meteJanG/Weatherassistai">
+  <img src="https://github.com/user-attachments/assets/f2b2cec9-6a26-46fe-8dd4-fbf40f6b6573" width="10%" alt="Hava Durumu Projesi Logosu" style="border-radius: 15px;">
+</a>
+
+*Sadece hava durumunu göstermekle kalmayan, anlık ve ileriki hava koşullarına göre kullanıcılara günlük hayatlarını kolaylaştıran öneriler sunan yenilikçi bir uygulama.*
+
+> 🚧 **Durum: Geliştirme Aşamasında** > *Proje şu an aktif olarak geliştirilmektedir. Yakın zamanda yeni veri entegrasyonları, kullanıcı özellikleri ve algoritmik geliştirmeler eklenecektir.*
+
+<div style="margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;">
+  <span style="background-color: #092E20; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Django</span>
+  <span style="background-color: #1DB954; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Spotify</span>
+  <span style="background-color: #1DB954; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Open Weather</span>
+  <span style="background-color: #3776AB; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Data Processing</span>
+  <span style="background-color: #ffc107; color: black; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">In Progress</span>
+</div>
+
+* [Projeyi İncele](https://github.com/meteJanG/Weatherassistai) 
+
+---
+
 ### 📫 Bana Ulaşın
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-g-1a65a7257/)
