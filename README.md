@@ -11,13 +11,11 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 ### 🛠️ Kullandığım Teknolojiler
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <span style="background-color: #3776AB; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold;">Python</span>
-  <span style="background-color: #092E20; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold;">Django</span>
-  <span style="background-color: #E34F26; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold;">HTML5</span>
-  <span style="background-color: #1572B6; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold;">CSS3</span>
-  <span style="background-color: #F05032; color: white; padding: 10px 20px; border-radius: 25px; font-weight: bold;">Git</span>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -31,11 +29,10 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 *QR tabanlı bir 'Kayıp Eşya' sistemidir ve 'Kaybolan Hiçbir Şey Kaybolmuş Sayılmaz.'*
 
-<div style="margin-top: 10px; display: flex; gap: 8px;">
-  <span style="background-color: #0078D4; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">QR Code</span>
-  <span style="background-color: #092E20; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Django</span>
-  <span style="background-color: #ffc107; color: black; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Innovation</span>
-</div>
+[Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
+![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
 
 * [Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](lostqr.net)
 
@@ -51,13 +48,10 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 > 🚧 **Durum: Geliştirme Aşamasında** > *Proje şu an aktif olarak geliştirilmektedir. Yakın zamanda yeni veri entegrasyonları, kullanıcı özellikleri ve algoritmik geliştirmeler eklenecektir.*
 
-<div style="margin-top: 10px; display: flex; gap: 8px; flex-wrap: wrap;">
-  <span style="background-color: #092E20; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Django</span>
-  <span style="background-color: #1DB954; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Spotify</span>
-  <span style="background-color: #1DB954; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Open Weather</span>
-  <span style="background-color: #3776AB; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">Data Processing</span>
-  <span style="background-color: #ffc107; color: black; padding: 5px 12px; border-radius: 15px; font-size: 0.8em;">In Progress</span>
-</div>
+[Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
+![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
 
 * [Projeyi İncele](https://github.com/meteJanG/Weatherassistai) 
 
