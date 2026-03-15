@@ -39,7 +39,7 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 #### [Weatherassistai - Hava Durumu & Life Assistance]
 
 <a href="https://github.com/meteJanG/Weatherassistai">
-  <img src="[https://github.com/user-attachments/assets/f2b2cec9-6a26-46fe-8dd4-fbf40f6b6573](https://github.com/user-attachments/assets/a6c3f999-4527-45da-bc09-0a60eda17e51)" width="10%" alt="Hava Durumu Projesi Logosu" style="border-radius: 15px;">
+  <img src="https://github.com/user-attachments/assets/a6c3f999-4527-45da-bc09-0a60eda17e51" width="10%" alt="Hava Durumu Projesi Logosu" style="border-radius: 15px;">
 </a>
 
 *Sadece hava durumunu göstermekle kalmayan, anlık ve ileriki hava koşullarına göre kullanıcılara günlük hayatlarını kolaylaştıran öneriler sunan yenilikçi bir uygulama.*
