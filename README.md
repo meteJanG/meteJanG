@@ -32,7 +32,7 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![QR Code](https://img.shields.io/badge/Tech-QR_Code-0078D4?style=flat) 
 
-* [Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](lostqr.net)
+* [Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](http://lostqr.net)
 
 ---
 
