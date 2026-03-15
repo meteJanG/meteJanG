@@ -29,10 +29,9 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 *QR tabanlı bir 'Kayıp Eşya' sistemidir ve 'Kaybolan Hiçbir Şey Kaybolmuş Sayılmaz.'*
 
-[Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
-![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![QR Code](https://img.shields.io/badge/Tech-QR_Code-0078D4?style=flat) 
+![Innovate](https://img.shields.io/badge/Feature-Yenilikçi-amber?style=flat)
 
 * [Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](lostqr.net)
 
