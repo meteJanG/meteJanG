@@ -1,6 +1,6 @@
 # Merhaba, Ben Metehan 👋
 
-Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı geliştirerek yenilikçi projeler üretmeyi seven bir geliştiriciyim. Bilgim olmayan alanlarda uğraşıp proje geliştirerek öğrenmeyi seven biriyim.
+Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı geliştirerek yenilikçi projeler üretmeyi seven bir geliştiriciyim. Bilgim olmayan alanlarda uğraşıp proje geliştirerek kendimi geliştirmeye çalışıyorum.
 
 * 🎓 İngilizce Matematik bölümünde 1. sınıf olarak lisans eğitimime devam ediyorum.
 * 💡 En büyük motivasyonum, projelerimde geleneksel kalıpları yıkmak ve yeni kalıplar inşa etmek.
