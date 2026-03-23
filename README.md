@@ -36,22 +36,23 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 
 ---
 
-#### [Weatherassistai - Hava Durumu & Life Assistance]
+#### [Climora - Hava Durumu & Life Assistance]
 
-<a href="https://github.com/meteJanG/Weatherassistai">
-  <img src="https://github.com/user-attachments/assets/a6c3f999-4527-45da-bc09-0a60eda17e51" width="10%" alt="Hava Durumu Projesi Logosu" style="border-radius: 15px;">
-</a>
+
+  <img width="20%" alt="ChatGPT Image 24 Mar 2026 01_18_21" src="https://github.com/user-attachments/assets/490d4b67-5c97-4f86-a884-be4ca6fa8d1d" style="border-radius: 15px;" /> 
+
 
 *Sadece hava durumunu göstermekle kalmayan, anlık ve ileriki hava koşullarına göre kullanıcılara günlük hayatlarını kolaylaştıran öneriler sunan yenilikçi bir uygulama.*
 
-> 🚧 **Durum: Geliştirme Aşamasında** > *Proje şu an aktif olarak geliştirilmektedir. Yakın zamanda yeni veri entegrasyonları, kullanıcı özellikleri ve algoritmik geliştirmeler eklenecektir.*
+> 🚧 **Durum: Geliştirme Aşamasında** > *Proje şu an aktif olarak geliştirilmektedir.
+>  Yakın zamanda saatlik güneş ve ay konumuna göre uyarlanabilir arka plan, kişiselleştirilebilir kullanıcı özellikleri ve algoritmik geliştirmeler eklenecektir.*
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white)
 ![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
 ![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
 
-* [Projeyi İncele](https://github.com/meteJanG/Weatherassistai) 
+* [Projeyi İncele](https://github.com/meteJanG/getclimoraa) 
 
 ---
 
