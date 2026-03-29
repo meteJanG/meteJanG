@@ -52,7 +52,7 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 ![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
 ![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
 
-* [Projeyi İncele](https://github.com/meteJanG/getclimoraa)
+* [Projeyi İncele](https://github.com/meteJanG/getclimoraa) | [Canlı Demo](https://getclimora.com/)
 
 * ## Demo görüntüler:
 * <img width="1865" height="982" alt="Ekran görüntüsü 2026-03-24 021047" src="https://github.com/user-attachments/assets/303abc9d-07ae-4650-b826-6d3af52065b5" />
