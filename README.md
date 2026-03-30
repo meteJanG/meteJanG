@@ -16,48 +16,50 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🚀 Öne Çıkan Projelerim
 
-#### [Lost QR]
+#### [Lost QR](https://github.com/meteJanG/lostqr)
 
-<a href="https://github.com/meteJanG/lostqr">
-  <img src="https://github.com/user-attachments/assets/2ec213a2-5739-46a7-a525-43e43a2a2adb" width="20%" alt="Lost QR Projesi Logosu" style="border-radius: 15px;">
-</a>
+[![Lost QR Logo](https://github.com/user-attachments/assets/2ec213a2-5739-46a7-a525-43e43a2a2adb)](https://github.com/meteJanG/lostqr)
 
-*QR tabanlı bir 'Kayıp Eşya' sistemidir ve 'Kaybolan Hiçbir Şey Kaybolmuş Sayılmaz.'*
+*QR tabanlı bir kayıp eşya sistemi — "Kaybolan Hiçbir Şey Kaybolmuş Sayılmaz."*
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![QR Code](https://img.shields.io/badge/Tech-QR_Code-0078D4?style=flat) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![QR Code](https://img.shields.io/badge/Tech-QR_Code-0078D4?style=flat)
 
-* [Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](http://lostqr.net)
+[Projeyi İncele](https://github.com/meteJanG/lostqr) | [Canlı Demo](http://lostqr.net)
 
 ---
 
-#### [Climora - Hava Durumu & Life Assistance]
+#### [Climora — Hava Durumu & Life Assistance](https://getclimora.com/)
 
+[![Climora Logo](https://github.com/user-attachments/assets/490d4b67-5c97-4f86-a884-be4ca6fa8d1d)](https://getclimora.com/)
 
-  <img width="20%" alt="ChatGPT Image 24 Mar 2026 01_18_21" src="https://github.com/user-attachments/assets/490d4b67-5c97-4f86-a884-be4ca6fa8d1d" style="border-radius: 15px;" /> 
+*Sadece hava durumunu göstermekle kalmayan, anlık ve ileriki hava koşullarına göre kullanıcılara günlük hayatlarını kolaylaştıran öneriler sunan yenilikçi bir uygulama. Hava durumuna göre Spotify'dan müzik önerisi sunar, AI destekli yorumlar üretir ve saate göre dinamik arka plan değiştirir.*
 
-
-*Sadece hava durumunu göstermekle kalmayan, anlık ve ileriki hava koşullarına göre kullanıcılara günlük hayatlarını kolaylaştıran öneriler sunan yenilikçi bir uygulama.*
-
-> 🚧 **Durum: Geliştirme Aşamasında** > *Proje şu an aktif olarak geliştirilmektedir.
->  Yakın zamanda saatlik güneş ve ay konumuna göre uyarlanabilir arka plan, kişiselleştirilebilir kullanıcı özellikleri ve algoritmik geliştirmeler eklenecektir.*
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Spotify API](https://img.shields.io/badge/Spotify_API-1DB954?style=flat&logo=spotify&logoColor=white)
-![Data Processing](https://img.shields.io/badge/Data_Processing-3776AB?style=flat&logo=python&logoColor=white)
-![In Progress](https://img.shields.io/badge/Durum-Geliştirme_Aşamasında-ffc107?style=flat)
+![Groq](https://img.shields.io/badge/Groq_AI-FF6C37?style=flat&logo=ai&logoColor=white)
+![OpenMeteo](https://img.shields.io/badge/OpenMeteo_API-00BFFF?style=flat&logo=cloud&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Deployed](https://img.shields.io/badge/Durum-Yay%C4%B1nda-28a745?style=flat)
 
-* [Projeyi İncele](https://github.com/meteJanG/getclimoraa) | [Canlı Demo](https://getclimora.com/)
+[Projeyi İncele](https://github.com/meteJanG/getclimoraa) | [Canlı Demo](https://getclimora.com/)
 
-* ## Demo görüntüler:
-* <img width="1865" height="982" alt="Ekran görüntüsü 2026-03-24 021047" src="https://github.com/user-attachments/assets/303abc9d-07ae-4650-b826-6d3af52065b5" />
-<img width="1860" height="985" alt="Ekran görüntüsü 2026-03-24 020838" src="https://github.com/user-attachments/assets/c9bbfe32-776e-4479-b42e-a621b2ed4c0f" />
+**Demo Görüntüler:**
 
+![Climora Demo 1](https://github.com/user-attachments/assets/303abc9d-07ae-4650-b826-6d3af52065b5)
+![Climora Demo 2](https://github.com/user-attachments/assets/c9bbfe32-776e-4479-b42e-a621b2ed4c0f)
 
 ---
 
