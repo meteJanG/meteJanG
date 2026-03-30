@@ -40,9 +40,3 @@ Geleneksel uygulamaların sınırlarını zorlamayı ve alışılmışı gelişt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-g-1a65a7257/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metejanmj@gmail.com)
 
-
-
-
-bu benimr readm me tamam mı değişmek istediğim şeyler var lostqr projesinde python django html css ve qr kod sistemi kullanıldı onları güzel gözükecek şekilde eklemen gerekiyor
-
-bir de climora kısmında geliştirme aşamasında değil bitti görsellerini değiştirme ve orada kullanılan teknolojiler de python django html css spotify groq openweather api kullanıldı sql var hava durumu verilerini işlerken ama db kullandım onları da güzel gözükecek şelkilde ekle genel olarak güzel bir read me yapar mısın
